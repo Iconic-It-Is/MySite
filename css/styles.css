@@ -1,0 +1,212 @@
+a {
+  color: #11999E;
+  font-family: 'Roboto Mono', monospace;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.adjust-1 {
+  text-align: center;
+}
+
+.adjust-2 {
+  position: absolute;
+  bottom: 4rem;
+  left: 1rem;
+}
+
+.adjust {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.btn {
+  -moz-box-shadow: 0px 1px 0px 0px #f0f7fa;
+  -webkit-box-shadow: 0px 1px 0px 0px #f0f7fa;
+  box-shadow: 0px 1px 0px 0px #f0f7fa;
+  background: #11cdd4;
+  background: -moz-linear-gradient(top, #11cdd4, #11999a);
+  background: -webkit-linear-gradient(top, #11cdd4, #11999a);
+  background: -o-linear-gradient(top, #11cdd4, #11999a);
+  background: -ms-linear-gradient(top, #11cdd4, #11999a);
+  background: linear-gradient(to bottom, #11cdd4, #11999a);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#33bdef', endColorstr='#019ad2', GradientType=0);
+  background-color: #33bdef;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  border: 1px solid #ffffff;
+  display: inline-block;
+  cursor: pointer;
+  color: #11999E;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 6px 24px;
+  text-decoration: none;
+  text-align: center;
+  margin-left: 650px;
+}
+
+.btn:hover {
+  background: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background: -webkit-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+  background: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#019ad2', endColorstr='#33bdef', GradientType=0);
+  background-color: #30e3cb;
+}
+
+.contact1 {
+  text-align: center;
+  background-color: #66BFBF;
+  color: #EAF6F6;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact {
+  text-align: center;
+  margin: 100px auto 0 auto;
+}
+
+.contact2 {
+  text-align: center;
+  margin: 100px auto 100px auto;
+}
+
+.footer-link {
+  text-align: center;
+  margin-left: 100px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-weight: lighter;
+  font-size: 5.62rem;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  font-weight: bolder;
+  color: #66BFBF;
+  font-size: 2.5rem;
+}
+
+h2 span {
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bold;
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 5%;
+}
+
+.icons1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.icons2 {
+  display: block;
+  margin: 0;
+  width: 25%;
+  float: left;
+}
+
+.icons3 {
+  display: block;
+  margin: 0;
+  width: 25%;
+  float: right;
+}
+
+.last {
+  text-align: center;
+  background-color: #66BFBF;
+  color: #EAF6F6;
+  padding: 50px 0 20px;
+  font-size: 2rem;
+  margin: 20px 0 0;
+}
+
+.mine {
+  height: 200px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  text-align: left;
+  font-weight: bold;
+  color: #40514E;
+  font-size: 25px;
+}
+
+.profile {
+  width: 50%;
+  margin: 150px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 150px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.textarea {
+  position: absolute;
+  bottom: 6rem;
+  left: 1rem
+}
+
+.top-container {
+  background-color: #eff8ff;
+  padding: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  padding-top: 250px;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 900px;
+  top: 150px;
+}

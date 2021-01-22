@@ -1,0 +1,54 @@
+.top-container {
+  background-color: #eff8ff;
+  padding: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  padding-top: 250px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h3{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+h2{
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  font-weight: bolder;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: absolute;
+  left: 900px;
+  top: 150px;
+}
+.mine{
+  height: 200px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+  text-align: center;
+  font-weight: bold;
+}
+h3 span{
+  text-decoration: underline;
+}
+.icons{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn{
+  text-align:center;
+}
