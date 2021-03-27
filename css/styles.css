@@ -1,3 +1,7 @@
+body{
+  margin: 0;
+}
+
 a {
   color: #11999E;
   font-family: 'Roboto Mono', monospace;
@@ -22,12 +26,12 @@ a:hover {
 .adjust {
   width: 50%;
   margin: 100px auto 100px auto;
-  text-align: left;
+  text-align: center;
   line-height: 2;
 }
 
-.bottom-cloud {
-  position: absolute;
+.contact-container{
+  text-align: center;
 }
 
 .btn {
@@ -55,7 +59,6 @@ a:hover {
   padding: 6px 24px;
   text-decoration: none;
   text-align: center;
-  margin-left: 650px;
 }
 
 .btn:hover {
@@ -201,12 +204,38 @@ p {
   padding: 20px;
   margin-bottom: 10px;
   text-align: center;
-  padding-top: 250px;
+  padding-top: 50px;
   line-height: 2;
 }
 
 .top-cloud {
   position: absolute;
-  left: 900px;
-  top: 150px;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.mountain{
+  width: 60%;
+}
+
+
+
+/* Media Breakpoints  */
+
+@media (max-width: 1090px) {
+  .top-cloud {
+    position: absolute;
+    right: 30px;
+    top: 50px;
+  }
+
+  .bottom-cloud {
+    position: absolute;
+    left: 50px;
+  }
+
 }
